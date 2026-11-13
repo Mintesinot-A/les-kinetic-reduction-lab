@@ -1,0 +1,5 @@
+mechanism,species,reactions,max_tau_error_pct,mean_tau_error_pct
+detailed-8sp,8,12,0.0,0.0
+skeletal-6sp,6,8,0.4061776146270343,0.17407612055444222
+skeletal-5sp,5,5,4.766705269767122,3.257484907298473
+global-1step,3,1,157.08871526709413,70.2506307203259
