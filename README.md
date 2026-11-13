@@ -116,7 +116,6 @@ What the numbers say:
 * Smagorinsky, J. (1963). General circulation experiments with the primitive equations. *Mon. Weather Rev.* 91, 99–164.
 * van Leer, B. (1979). Towards the ultimate conservative difference scheme V. *J. Comput. Phys.* 32, 101–136.
 * Gottlieb, S., Shu, C.-W. (1998). Total variation diminishing Runge–Kutta schemes. *Math. Comp.* 67, 73–85.
-* Rekkas-Ventiris, G. et al. (2024). A novel machine learning based lumping approach for the reduction of large kinetic mechanisms for plasma-assisted combustion applications. *Combust. Flame* 260, 113252. (Related work; motivates the roadmap, not used here.)
 
 ## License
 
